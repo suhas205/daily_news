@@ -1,0 +1,38 @@
+Flowchart for News Application Project:
+
+1. User Interface
+   - Homepage
+   - Browse Articles
+   - Search Articles
+   - View Saved Articles
+
+2. API Requests
+   - Category Selection
+   - Search Request
+   - News API
+
+3. Data Processing
+   - JSON Response
+   - Data Parsing
+   - Filtering
+   - Formatting
+
+4. Display Articles
+   - Render Articles
+   - Read More
+   - Save Article
+   - Share Article
+
+5. User Interaction
+   - Click Article
+   - Save Article
+   - Search Topics
+   - Filter Categories
+
+6. Database Interaction
+   - Store User Actions
+   - Retrieve Preferences
+
+7. Real-Time Updates
+   - Check for New Articles
+   - Notifications
